@@ -1,0 +1,11 @@
+C:\Users\marla\workspace\c#\RandomNumberList\bin\Debug\netcoreapp3.0\RandomNumberList.exe
+C:\Users\marla\workspace\c#\RandomNumberList\bin\Debug\netcoreapp3.0\RandomNumberList.deps.json
+C:\Users\marla\workspace\c#\RandomNumberList\bin\Debug\netcoreapp3.0\RandomNumberList.runtimeconfig.json
+C:\Users\marla\workspace\c#\RandomNumberList\bin\Debug\netcoreapp3.0\RandomNumberList.runtimeconfig.dev.json
+C:\Users\marla\workspace\c#\RandomNumberList\bin\Debug\netcoreapp3.0\RandomNumberList.dll
+C:\Users\marla\workspace\c#\RandomNumberList\bin\Debug\netcoreapp3.0\RandomNumberList.pdb
+C:\Users\marla\workspace\c#\RandomNumberList\obj\Debug\netcoreapp3.0\RandomNumberList.csprojAssemblyReference.cache
+C:\Users\marla\workspace\c#\RandomNumberList\obj\Debug\netcoreapp3.0\RandomNumberList.AssemblyInfoInputs.cache
+C:\Users\marla\workspace\c#\RandomNumberList\obj\Debug\netcoreapp3.0\RandomNumberList.AssemblyInfo.cs
+C:\Users\marla\workspace\c#\RandomNumberList\obj\Debug\netcoreapp3.0\RandomNumberList.dll
+C:\Users\marla\workspace\c#\RandomNumberList\obj\Debug\netcoreapp3.0\RandomNumberList.pdb
